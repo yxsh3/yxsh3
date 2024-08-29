@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yxsh3
-- 👀 I’m interested in nothing
-- 🌱 I’m currently pursuing Engineering (Not Printing Engineering)
+- 👀 I’m interested in Blockchain Technology and Web development
+- 🌱 I’m currently pursuing Engineering
+- ✨ I'm currently enrolled in 100xDevs Cohort 3.0, learning Web deb and Web3.
 
 <!---
 yxsh3/yxsh3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
